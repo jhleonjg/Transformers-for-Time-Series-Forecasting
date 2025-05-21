@@ -11,7 +11,7 @@ The simple Transformer architecture in the code just uses the usual self-attenti
 
 ![image alt](https://github.com/jhleonjg/Transformers-for-Time-Series-Forecasting/blob/main/TrainValErrors.png?raw=true)
 
-The predictions are made for the next 12 datapoints. As can be seen in the plot below the forecasting is not so great this mainly because the amount of data is small. But this implementation serves its purpose to ilustrate the main building blocks of transformers in time series forecasting. I will test longer, more complex time series in the near future withe better feature engineering in it.
+The predictions are made for the next 12 datapoints. As can be seen in the plot below the forecasting is not so great this is mainly because the amount of data is small. But this implementation serves its purpose to ilustrate the main building blocks of transformers in time series forecasting. I will test longer, more complex time series in the near future with better feature engineering in it.
 
 ![image alt](https://github.com/jhleonjg/Transformers-for-Time-Series-Forecasting/blob/main/PredictionVsGroundTruth.png?raw=true)
 
